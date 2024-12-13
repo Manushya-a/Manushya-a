@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Manav Acharya</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-- 🔭 I’m currently working on **a File Encryption Software**
+- 🔭 I’m currently working on **a potential OWASP Nettacker Module**
 
-- 🌱 I’m currently learning **Dynamic Programming**
+- 🌱 I’m currently learning **Vulnerability Testing**
 
-- 🤝 I’m looking for help with **C++ and DSA**
+- 🤝 I’m looking for help with **Computer Networks**
 
 - 👨‍💻 All of my projects are available at [https://manushya-a.github.io/Portfolio/](https://manushya-a.github.io/Portfolio/)
 
