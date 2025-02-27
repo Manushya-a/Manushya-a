@@ -5,6 +5,10 @@ on:
     - cron: "0 0 * * *" # Runs once a day at midnight UTC
   workflow_dispatch:
 
+permissions:
+  contents: write
+
+
 jobs:
   generate-snake-game:
     runs-on: ubuntu-latest
