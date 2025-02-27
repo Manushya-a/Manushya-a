@@ -2,7 +2,7 @@
 🔭 I’m currently working on **a potential OWASP Nettacker Module**<br><br>- 🌱 I’m currently learning **Vulnerability Testing**<br><br>- 🤝 I’m looking for help with **Computer Networks**
 
 # Contribution Snake
-![Snake animation](https://github.com/Manushya-a/Manushya-a/blob/output/github-contribution-grid-snake.svg)
+![Snake Game](https://github.com/Manushya-a/Manushya-a/blob/output/github-contribution-grid-snake.svg)
 
 
 
