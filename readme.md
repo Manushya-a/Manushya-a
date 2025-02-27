@@ -18,7 +18,7 @@
 
 
 ###
-# GitHub Stats:
+# GitHub Stats
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Manushya-a?cardType=github&theme=dark&preferLogin=true&Background=000000&Text=DDDDDD&Ring=DDDDDD&Border=038111)](https://git.io/awesome-stats-card)<br>
 ![](https://nirzak-streak-stats.vercel.app/?user=Manushya-a&theme=dark&hide_border=false)<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Manushya-a&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
