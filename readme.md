@@ -2,12 +2,14 @@
 - 🔭 I’m currently working on [**OWASP Nettacker**](https://github.com/OWASP/Nettacker)
 - 🌱 I’m currently learning **Vulnerability Testing** 
 - 🤝 I’m looking for help with **Computer Networks**
-<br>
+
 # Focusing on becoming a
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=31&letterSpacing=0.5&duration=3000&pause=500&color=008F11&width=435&lines=SECURITY+ANALYST)]()
 
 # Contribution Snake
 <img src="https://raw.githubusercontent.com/JOURT1/JOURT1/output/snake.svg" alt="Snake animation" />
+
+
 
 ###
 # GitHub Stats:
