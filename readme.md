@@ -2,7 +2,7 @@
 <h3 align="center">A Cybersecurity Enthusiast from India</h3>
 
 # About Me
-- 🔭 I’m currently working on [**OWASP Nettacker**](https://github.com/OWASP/Nettacker)
+- 🔭 I’m currently working on Coding and DSA.
 - 🌱 I’m currently learning **Vulnerability Testing** 
 - 🤝 I’m looking for help with **Computer Networks**
 - 👨‍💻 All of my projects are available at [**my portfolio website**](https://manushya-a.github.io/Portfolio/)
