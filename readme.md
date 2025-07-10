@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on Coding and DSA.
 - 🌱 I’m currently learning **Vulnerability Testing** 
 - 🤝 I’m looking for help with **Computer Networks**
-- 👨‍💻 All of my projects are available at [**my portfolio website**](https://manushya-a.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [**my portfolio website**](https://manushya-a.github.io/Portfolio_V1/)
 
 - 📫 Reach out to me via [**email**](mailto:manav_2004@outlook.com) 
 
