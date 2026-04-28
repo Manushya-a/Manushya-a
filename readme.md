@@ -3,7 +3,7 @@
 
 # About Me
 
-- 🔭 I’m currently working on getting certified for **Security+**.
+- 🔭 I’m currently working on learning about **Suricata**.
 - 🌱 I’m currently learning **Peneteration Testing**
 - 🤝 I’m looking for help with **Computer Networks**
 - 👨‍💻 All of my projects are available at [**my portfolio website**](https://manushya-a.github.io/Portfolio_V2/)
